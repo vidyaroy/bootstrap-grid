@@ -1,0 +1,90 @@
+:root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.comn1 {
+  background-image: url("images/geneva-parliament.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.child-1 {
+  height: 200px;
+  width: 240px;
+  background-image: url("images/duma\ russia.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.child-1-content {
+  height: 200px;
+  width: 240px;
+  background-color: orangered;
+  opacity: 0.7;
+  font-size: 20px;
+}
+
+.child-2 {
+  height: 200px;
+  width: 240px;
+  background-image: url("images/newyork-parliament.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.child-2-content {
+  height: 200px;
+  width: 240px;
+  background-color: #22658F;
+  opacity: 0.7;
+}
+
+.child-3 {
+  height: 200px;
+  width: 240px;
+  background-image: url("images/geneva-parliament.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.child-3-content {
+  height: 200px;
+  width: 240px;
+  background-color: #22658F;
+  opacity: 0.7;
+}
+
+.child-4 {
+  height: 200px;
+  width: 240px;
+  background-image: url("images/geneva-parliamet-2.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.child-4-content {
+  height: 200px;
+  width: 240px;
+  background-color: #22658F;
+  opacity: 0.7;
+}
+
+.upcoming {
+  font-weight: 800;
+  color: #CBD7E5;
+}
+
+.events {
+  font-weight: 900;
+  color: #0061A2;
+}
+
+
+
+.content {
+  background-color: #22658F;
+  opacity: 0.8;
+  margin-top: 319px;
+}
